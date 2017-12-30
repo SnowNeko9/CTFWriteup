@@ -24,13 +24,13 @@ LS0tLi4gLS0tLS4gLi0uLSAtLS0tLiAtLi0uLS4gLS0tLS0gLS4uLSAuLS4uIC0uLS4tLiAtLS0uIC0t
 ```
 ---.. ----. .-.- ----. -.-.-. ----- -..- .-.. -.-.-. ---. ----- -.-.-. ----- -..- .-..
 ```
-5.this step you can't decode with morse code. need to inverse code before decode with morse code
+5. this step you can't decode with morse code. need to inverse code before decode with morse code
 ```
 before: ---.. ----. .-.- ----. -.-.-. ----- -..- .-.. -.-.-. ---. ----- -.-.-. ----- -..- .-..
 after : ...-- ....- -.-. ....- .-.-.- ..... .--. -.-- .-.-.- ...- ..... .-.-.- ..... .--. -.--
 ```
 
-6.decode with morse code
+6. decode with morse code
 ```
 34C4.5PY.V5.5PY
 ```

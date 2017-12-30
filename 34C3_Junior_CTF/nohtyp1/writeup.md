@@ -50,6 +50,7 @@ stroage data [t1,t2] use Lambda function to calculate with t1+(t2^21)
 and we know somepart of answer : '34C3_'at fist //'mo4r' //'tzzzz' at last
 
 4. test some piece with code
+```python
 #[160,155,208,160,190,215,237,134,210,126,212,222,224,238,128,240,164,213,183,192,162,178,163,162]
 #  ^                                                                                           ^
 Lambda=lambda t1,t2:t1+(t2^21)
@@ -59,7 +60,9 @@ for i in range(1,127):
         t2 = Lambda(j,i)
         if t1 == 162 and t2 == 160 and i >= 48 and i <= 122 and j >= 48 and j <= 122:
             print(str(i)+" "+str(j))
---run--            
+```
+```
+--output--            
 3 z
 ; r
 ? v
@@ -74,6 +77,7 @@ _ V
 s :
 w >
 ------
+```
 '3' in first '34C3_' and 'z' in last 'tzzzz' is Correct!
 that you need to compare 2 char in some part of answer
 

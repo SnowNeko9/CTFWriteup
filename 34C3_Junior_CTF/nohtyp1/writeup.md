@@ -14,6 +14,7 @@ start with nohtyp1.py_fix
 
 2. editcode format for easy to understand
 --first edit--
+```python
 ____=input;
 __________________=print;
 ___________=____();
@@ -24,8 +25,9 @@ ____________________________=list;
 ___=21;
 _____=lambda ______,_______:______+(_______^___);______________={not not not ___ and not not ___:lambda:__________________('\x41\x6c\x6d\x6f\x73\x74\x21\x21'),not not ___ and not not ___:lambda:__________________('\x43\x6f\x72\x72\x65\x63\x74\x21')};
 ______________[[_____(*________) for ________ in _______________(____________________________(_________(__________,___________)),____________________________(_________(__________,___________))[::-1])][::-1]==[160,155,208,160,190,215,237,134,210,126,212,222,224,238,128,240,164,213,183,192,162,178,163,162] and 'mo4r' in ___________ and '34C3_' in ___________ and ___________.split('_')[3] == 'tzzzz']()
-
+```
 --second edit--
+```python
 input=input;#4
 print=print;#18
 Inn=input();#11
@@ -38,7 +40,7 @@ temp3=21;#3
 Lambda=lambda t1,t2:t1+(t2^temp3); #5
 cal14={not temp3 and temp3:lambda:print("STOP!!"),temp3 and temp3:lambda:print('Correct!')}; #14
 cal14[[Lambda(*________) for ________ in zip(list(map(ord,Inn)),list(map(ord,Inn))[::-1])][::-1]==[160,155,208,160,190,215,237,134,210,126,212,222,224,238,128,240,164,213,183,192,162,178,163,162] and 'mo4r' in Inn and '34C3_' in Inn and Inn.split('_')[3] == 'tzzzz' ]()
-
+```
 3. understand code
 
 at first code want your string input and stroage input as list of [ord(input(i)),ord(input(n-i))] when 'i' is position of char from first to last.
